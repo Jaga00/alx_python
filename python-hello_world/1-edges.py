@@ -1,5 +1,3 @@
-# Letter position in word
-
 word = "Holberton"
 
 print("First 3 letters: {}".format(word[:3]))
