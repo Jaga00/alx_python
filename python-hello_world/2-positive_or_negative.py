@@ -1,4 +1,4 @@
-# Positive and negative- program will assign a random signed number to the variable number each time it is executed
+# Positive and negative- program assigns a random signed number to the variable number each time it is executed
 
 import random
 number = random.randint(-10, 10)

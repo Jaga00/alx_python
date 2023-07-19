@@ -1,4 +1,4 @@
-# letter position in word
+# Letter position in word
 
 word = "Holberton"
 
