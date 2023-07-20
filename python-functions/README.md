@@ -1,0 +1,1 @@
+Today, 20/7/2013, I learn about functions in python.
