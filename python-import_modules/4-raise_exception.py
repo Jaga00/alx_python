@@ -11,4 +11,4 @@ def raise_exception(message=""):
         return
 
 # Call the function
-raise_exception("Type exception")
+raise_exception("Exception has been raised")

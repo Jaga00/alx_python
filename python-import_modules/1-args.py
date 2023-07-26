@@ -17,4 +17,4 @@ def main():
             print(f"{index}: {arg}")
 
 if __name__ == "__main__":
-    main()
+    ()
