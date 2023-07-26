@@ -3,12 +3,9 @@
 class MyTypeException(Exception):
     pass
 
-def raise_exception(message=""):
+def raise_exception(message="Exception has been raised"):
     try:
         raise MyTypeException(message)
     except MyTypeException as e:
         print(e)
         return
-
-# Call the function
-raise_exception("Exception has been raised")
