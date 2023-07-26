@@ -11,4 +11,4 @@ def raise_exception(message=""):
         return
 
 # Call the function
-raise_exception("This is a type exception.")
+raise_exception("Type exception")

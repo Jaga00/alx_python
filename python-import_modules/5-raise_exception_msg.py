@@ -11,4 +11,4 @@ def raise_exception_msg(message=""):
         return
 
 # Call the function
-raise_exception_msg('James Okwemba')
+raise_exception_msg()
