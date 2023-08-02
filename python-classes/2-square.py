@@ -1,4 +1,29 @@
+"""
+This module defines a class Square that represents a square.
+
+Class Square:
+    A class representing a square with a given size.
+
+Attributes:
+    size (int): The size of the square.
+
+Methods:
+    __init__(self, size=0): Initialize the Square object with an optional size.
+    area(self): Calculate the area of the square.
+   
+"""
+
 class Square:
+    """
+        A class representing a square with a given size.
+
+        Attributes:
+            size (int): The size of the square.
+
+        Methods:
+            __init__(self, size=0): Initialize the Square object with an optional size.
+            area(self): Calculate the area of the square.
+        """
     def __init__(self, size=0):
         """
         Initialize the Square object with an optional size.
