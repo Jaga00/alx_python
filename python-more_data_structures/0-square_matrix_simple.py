@@ -12,3 +12,5 @@ def square_matrix_simple(matrix=[]):
         # Append the new row to the result matrix
         result_matrix.append(new_row)
     return result_matrix
+
+
