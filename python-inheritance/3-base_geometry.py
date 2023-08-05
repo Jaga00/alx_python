@@ -6,7 +6,6 @@ class BaseGeometry:
     """
     BaseGeometry class serves as a base for geometry classes.
     """
-    pass
 
     def __dir__(cls) -> None:
         # get list of all attributes for this class and exclude __init_subclass__
