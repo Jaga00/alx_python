@@ -1,10 +1,11 @@
 '''
-This module defines a class Square that represents a square.
+This module defines a class Square that represents a Square.
 
 class Square:
 A class representing a square.
 
 '''
+
 from models.rectangle import Rectangle
 
 class Square(Rectangle):
@@ -24,10 +25,6 @@ class Square(Rectangle):
         """
         super().__init__(size, size, x, y, id)
 
-    def __str__(self):
-        """Return a string representation of the Square instance."""
-        return f"[Square] ({self.id}) {self.x}/{self.y} - {self.width}"
-    
     @property
     def size(self):
         """Get the size of the square."""
