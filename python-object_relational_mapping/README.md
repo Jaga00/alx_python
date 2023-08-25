@@ -1,0 +1,3 @@
+Lesson on mapping Python scripts to the SQL database.
+Object-Ralational Mapping.
+Python Object-Relational Mapping (ORM) is a technique used to bridge the gap between object-oriented programming and relational databases. It allows developers to interact with databases using Python objects and methods instead of writing raw SQL queries. This makes database operations more intuitive and efficient for developers who are more familiar with object-oriented programming concepts.
